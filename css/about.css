@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: sienna;
+    background-color: ivory;
+}
+li {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: maroon;
+    text-decoration: none;
+}
+a:hover {text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {color: steelblue;}
+.favorites {
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.underline {
+    text-decoration: underline;
+}
+.justify {text-align: justify;}
+
+.box1{
+    border-width: 3px;
+    border-style: solid;
+    border-color: burlywood;
+
+}
+.box2{
+    padding: 8px;
+}
+.box3 {
+    text-align: center;
+}
+.pic1 {
+    padding-left: 25px;
+    align-content: center;
+    image-orientation: center;
+}
+.pic2 {
+    float: right;
+}
+.vid1 {
+    float: right;    
+}
